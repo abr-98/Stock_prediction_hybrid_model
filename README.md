@@ -10,7 +10,7 @@ Impact of financial news and traders sentiment analysis, which is not possible r
 
 Charts for Amazon variation:
 
-![](https://github.com/tograh/testrepository/3DTest.png 242)
+
 
 
 Description at: https://towardsdatascience.com/stock-price-prediction-based-on-deep-learning-3842ef697da0
