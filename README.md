@@ -8,3 +8,9 @@ often regulate a stock.
 Future possible work(data is available):
 Impact of financial news and traders sentiment analysis, which is not possible right now due to data inavalability. This results combined with the events can be fed to the covering nueral network to provide more robustness.
 
+Charts for Amazon variation:
+
+![](https://github.com/tograh/testrepository/3DTest.png 242)
+
+
+Description at: https://towardsdatascience.com/stock-price-prediction-based-on-deep-learning-3842ef697da0
